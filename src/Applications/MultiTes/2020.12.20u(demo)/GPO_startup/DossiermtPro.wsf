@@ -1,0 +1,26 @@
+<job id="Includer">
+  <script language="VBScript" src="DroitsNTFS.inc"/>
+  <script language="VBScript">
+	'======= Déclaration des variables =======
+	dim domaine
+	dim repertoire
+	dim groupe
+	dim fso
+
+	repertoire = "C:\mtPro"
+	groupe = "Utilisateurs"
+
+
+	'======= Programme principal =======
+	domaine = WScript.CreateObject("WScript.Network").ComputerName
+	Set fso = CreateObject("Scripting.FileSystemObject")
+
+	'Si le dossier n'existe pas on le crée
+	if not fso.FolderExists(repertoire) then
+		fso.CreateFolder(repertoire)
+	end if
+
+	'Définir les droits
+	SetPermissions domaine, domaine, repertoire, groupe, "Full"
+  </script>
+</job>

@@ -1,0 +1,32 @@
+<job id="Includer">
+  <script language="VBScript" src="DroitsNTFS.inc"/>
+  <script language="VBScript">
+	'======= Déclaration des variables =======
+	dim domaine
+	dim repertoire
+	dim groupe
+	dim fso
+
+	domaine = WScript.CreateObject("WScript.Network").ComputerName
+	repertoire = "C:\Tempo"
+	lecteur = "D:\"
+
+
+	'======= Programme principal =======
+	strComputer = "."
+	Set objWMIService = GetObject("winmgmts:\\" & strComputer & "\root\cimv2")
+	Set colVolumes = objWMIService.ExecQuery("Select * from Win32_Volume Where Name = '" & lecteur & "\'")
+	For Each objVolume in colVolumes
+		errResult = objvolume.dismount(1,0)
+		WScript.Echo errResult 
+		errResult = objVolume.Format("NTFS",1,,"TEMPO",0)
+		WScript.Echo errResult 
+	Next
+
+	groupe = "Utilisateurs"
+	Set fso = CreateObject("Scripting.FileSystemObject")
+
+	'Définir les droits pour utilisateurs avec pouvoir
+	SetPermissions domaine, domaine, lecteur, groupe, "Full"
+  </script>
+</job>

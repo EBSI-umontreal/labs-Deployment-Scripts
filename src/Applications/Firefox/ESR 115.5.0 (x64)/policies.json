@@ -1,0 +1,19 @@
+{
+	"policies": {
+		"DisableBuiltinPDFViewer": true,
+		"DisableTelemetry": true,
+		"DisplayBookmarksToolbar": false,
+		"DisplayMenuBar": "default-off",
+		"DontCheckDefaultBrowser": true,
+		"NoDefaultBookmarks": true,
+		"OverrideFirstRunPage": "",
+		"OverridePostUpdatePage": "",
+		"PSFjs": {
+			"Enabled": false,
+			"EnablePermissions": true
+		},
+		"SearchEngines": {
+			"Default": "Google"
+		}
+	}
+}

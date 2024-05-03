@@ -1,0 +1,1 @@
+if exist "C:\Program Files\LibreOffice\program\unopkg.exe" if exist "C:\Program Files\Druide\Connectix 11\Connect\LibreOffice\Antidote.LibreOffice.7.oxt" start "" /wait "C:\Program Files\LibreOffice\program\unopkg.exe" add "C:\Program Files\Druide\Connectix 11\Connect\LibreOffice\Antidote.LibreOffice.7.oxt"

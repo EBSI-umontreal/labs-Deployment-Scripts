@@ -1,0 +1,1 @@
+REGEDIT /S "%~dp0picasa.reg"

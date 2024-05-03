@@ -1,0 +1,3 @@
+Installer en double-cliquant sur le .jar
+Prendre copie de la version décompressée dans le profil
+Modifier le fichier de config (C:\TEMPO)

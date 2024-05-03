@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<settings>
+  <store name="com.yworks.yfx.YEd">
+    <entry name="checkVersionOnStartup" type="java.lang.Boolean">
+      <value>false</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+  </store>
+  <store name="com.yworks.yfx.welcome.WelcomeManager">
+    <entry name="show.on.startup" type="java.lang.Boolean">
+      <value>false</value>
+      <defaultValue>true</defaultValue>
+    </entry>
+  </store>
+</settings>

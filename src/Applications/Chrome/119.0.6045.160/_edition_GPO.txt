@@ -1,0 +1,7 @@
+Pour éditer le GPO "L-EBSI - Chrome" de configuration de Chrome :
+- Télécharger le pack "entreprise" de Chrome
+- Copier les fichiers /configuration/admx/*.admx et les dossiers en-US, fr et fr-FR dans %SystemRoot% \PolicyDefinitions
+- Dans la clé HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Group Policy (créer cette dernière au besoin), 
+  Créer l'entrée DWORD:EnableLocalStoreOverride=1
+- Les clés apparaitront dans "Configuration de l'ordinateur\Modèles d'administration\Google"
+  et "Configuration utilisateur\Modèles d'administration\Google"

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DefaultAssociations>
+  <Association Identifier=".123" ProgId="soffice.StarCalcDocument.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".3fr" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".3g2" ProgId="VLC.3g2" ApplicationName="VLC media player" />
+  <Association Identifier=".3ga" ProgId="VLC.3ga" ApplicationName="VLC media player" />
+  <Association Identifier=".3gp" ProgId="VLC.3gp" ApplicationName="VLC media player" />
+  <Association Identifier=".3gp2" ProgId="VLC.3gp2" ApplicationName="VLC media player" />
+  <Association Identifier=".3gpp" ProgId="VLC.3gpp" ApplicationName="VLC media player" />
+  <Association Identifier=".602" ProgId="LibreOffice.602" ApplicationName="LibreOffice Writer" />
+  <Association Identifier=".669" ProgId="VLC.669" ApplicationName="VLC media player" />
+  <Association Identifier=".aac" ProgId="VLC.aac" ApplicationName="VLC media player" />
+  <Association Identifier=".adt" ProgId="VLC.adt" ApplicationName="VLC media player" />
+  <Association Identifier=".adts" ProgId="VLC.adts" ApplicationName="VLC media player" />
+  <Association Identifier=".aif" ProgId="VLC.aif" ApplicationName="VLC media player" />
+  <Association Identifier=".aifc" ProgId="VLC.aifc" ApplicationName="VLC media player" />
+  <Association Identifier=".aiff" ProgId="VLC.aiff" ApplicationName="VLC media player" />
+  <Association Identifier=".ari" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".arw" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".asf" ProgId="VLC.asf" ApplicationName="VLC media player" />
+  <Association Identifier=".asx" ProgId="VLC.asx" ApplicationName="VLC media player" />
+  <Association Identifier=".au" ProgId="VLC.au" ApplicationName="VLC media player" />
+  <Association Identifier=".avci" ProgId="AppXcesbfs704v2mjbts9dkr42s9vmrhxbkj" ApplicationName="Paint" />
+  <Association Identifier=".avi" ProgId="VLC.avi" ApplicationName="VLC media player" />
+  <Association Identifier=".avif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".bay" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".bmp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".cab" ProgId="CABFolder" ApplicationName="Explorateur Windows" />
+  <Association Identifier=".cap" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".cda" ProgId="VLC.cda" ApplicationName="VLC media player" />
+  <Association Identifier=".cdr" ProgId="LibreOffice.Cdr" ApplicationName="LibreOffice Draw" />
+  <Association Identifier=".cgm" ProgId="LibreOffice.Cgm" ApplicationName="LibreOffice Impress" />
+  <Association Identifier=".cmx" ProgId="LibreOffice.Cmx" ApplicationName="LibreOffice Draw" />
+  <Association Identifier=".cr2" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".cr3" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".crw" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".csv" ProgId="Excel.CSV" ApplicationName="Excel" />
+  <Association Identifier=".dbf" ProgId="soffice.StarCalcDocument.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".dcr" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".dcs" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".dib" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".divx" ProgId="VLC.divx" ApplicationName="VLC media player" />
+  <Association Identifier=".dng" ProgId="AppXvvwq6wxamf7qhxd0vn6wm1wwehyxrdd6" ApplicationName="Photos" />
+  <Association Identifier=".doc" ProgId="Word.Document.8" ApplicationName="Word" />
+  <Association Identifier=".docm" ProgId="Word.DocumentMacroEnabled.12" ApplicationName="Word" />
+  <Association Identifier=".docx" ProgId="Word.Document.12" ApplicationName="Word" />
+  <Association Identifier=".dot" ProgId="Word.Template.8" ApplicationName="Word" />
+  <Association Identifier=".dotm" ProgId="Word.TemplateMacroEnabled.12" ApplicationName="Word" />
+  <Association Identifier=".dotx" ProgId="Word.Template.12" ApplicationName="Word" />
+  <Association Identifier=".drf" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".dvr-ms" ProgId="VLC.dvr-ms" ApplicationName="VLC media player" />
+  <Association Identifier=".eip" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".emf" ProgId="AppXcesbfs704v2mjbts9dkr42s9vmrhxbkj" ApplicationName="Paint" />
+  <Association Identifier=".eps" ProgId="LibreOffice.Eps" ApplicationName="LibreOffice Draw" />
+  <Association Identifier=".erf" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".f4a" ProgId="AppXje1yfpbq840nvc3prwa53vknqsk55vha" ApplicationName="Microsoft Clipchamp" />
+  <Association Identifier=".f4v" ProgId="VLC.f4v" ApplicationName="VLC media player" />
+  <Association Identifier=".fff" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".flac" ProgId="VLC.flac" ApplicationName="VLC media player" />
+  <Association Identifier=".flv" ProgId="VLC.flv" ApplicationName="VLC media player" />
+  <Association Identifier=".fodg" ProgId="LibreOffice.DrawDocument.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".fodp" ProgId="LibreOffice.ImpressDocument.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".fods" ProgId="LibreOffice.CalcDocument.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".fodt" ProgId="LibreOffice.WriterDocument.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".gif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".heic" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".heif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".hif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".htm" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".html" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".hwp" ProgId="soffice.StarWriterDocument.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".ico" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".iiq" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".inf" ProgId="AppXzwr976v2e060wada4gabrk1x69h2dbwy" ApplicationName="Bloc-notes" />
+  <Association Identifier=".ini" ProgId="AppXhk4des8gf2xat3wtyzc5q06ny78jhkqx" ApplicationName="Bloc-notes" />
+  <Association Identifier=".iqy" ProgId="iqyfile" ApplicationName="Excel" />
+  <Association Identifier=".jfif" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpe" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpeg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jpg" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".jxr" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".k25" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".kdc" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".log" ProgId="AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw" ApplicationName="Bloc-notes" />
+  <Association Identifier=".lwp" ProgId="LibreOffice.Lwp" ApplicationName="LibreOffice Writer" />
+  <Association Identifier=".m1v" ProgId="VLC.m1v" ApplicationName="VLC media player" />
+  <Association Identifier=".m2t" ProgId="VLC.m2t" ApplicationName="VLC media player" />
+  <Association Identifier=".m2ts" ProgId="VLC.m2ts" ApplicationName="VLC media player" />
+  <Association Identifier=".m2v" ProgId="VLC.m2v" ApplicationName="VLC media player" />
+  <Association Identifier=".m3u" ProgId="VLC.m3u" ApplicationName="VLC media player" />
+  <Association Identifier=".m4a" ProgId="VLC.m4a" ApplicationName="VLC media player" />
+  <Association Identifier=".m4p" ProgId="VLC.m4p" ApplicationName="VLC media player" />
+  <Association Identifier=".m4v" ProgId="VLC.m4v" ApplicationName="VLC media player" />
+  <Association Identifier=".mdc" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".mef" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".met" ProgId="LibreOffice.Met" ApplicationName="LibreOffice Draw" />
+  <Association Identifier=".mht" ProgId="MSEdgeMHT" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".mhtml" ProgId="MSEdgeMHT" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".mid" ProgId="VLC.mid" ApplicationName="VLC media player" />
+  <Association Identifier=".mka" ProgId="VLC.mka" ApplicationName="VLC media player" />
+  <Association Identifier=".mkv" ProgId="VLC.mkv" ApplicationName="VLC media player" />
+  <Association Identifier=".mml" ProgId="soffice.StarMathDocument.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".mod" ProgId="VLC.mod" ApplicationName="VLC media player" />
+  <Association Identifier=".mos" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".mov" ProgId="VLC.mov" ApplicationName="VLC media player" />
+  <Association Identifier=".MP2" ProgId="VLC.mp2" ApplicationName="VLC media player" />
+  <Association Identifier=".mp2v" ProgId="VLC.mp2v" ApplicationName="VLC media player" />
+  <Association Identifier=".mp3" ProgId="VLC.mp3" ApplicationName="VLC media player" />
+  <Association Identifier=".mp4" ProgId="VLC.mp4" ApplicationName="VLC media player" />
+  <Association Identifier=".mp4v" ProgId="VLC.mp4v" ApplicationName="VLC media player" />
+  <Association Identifier=".mpa" ProgId="VLC.mpa" ApplicationName="VLC media player" />
+  <Association Identifier=".MPE" ProgId="VLC.mpe" ApplicationName="VLC media player" />
+  <Association Identifier=".mpeg" ProgId="VLC.mpeg" ApplicationName="VLC media player" />
+  <Association Identifier=".mpg" ProgId="VLC.mpg" ApplicationName="VLC media player" />
+  <Association Identifier=".mpv" ProgId="AppXje1yfpbq840nvc3prwa53vknqsk55vha" ApplicationName="Microsoft Clipchamp" />
+  <Association Identifier=".mpv2" ProgId="VLC.mpv2" ApplicationName="VLC media player" />
+  <Association Identifier=".mrw" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".mts" ProgId="VLC.mts" ApplicationName="VLC media player" />
+  <Association Identifier=".mxf" ProgId="VLC.mxf" ApplicationName="VLC media player" />
+  <Association Identifier=".nef" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".nrw" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".odb" ProgId="LibreOffice.DatabaseDocument.1" ApplicationName="LibreOffice Base" />
+  <Association Identifier=".odf" ProgId="LibreOffice.MathDocument.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".odg" ProgId="LibreOffice.DrawDocument.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".odm" ProgId="LibreOffice.WriterGlobalDocument.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".odp" ProgId="LibreOffice.ImpressDocument.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".ods" ProgId="LibreOffice.CalcDocument.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".odt" ProgId="LibreOffice.WriterDocument.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".oga" ProgId="VLC.oga" ApplicationName="VLC media player" />
+  <Association Identifier=".ogg" ProgId="VLC.ogg" ApplicationName="VLC media player" />
+  <Association Identifier=".ogv" ProgId="VLC.ogv" ApplicationName="VLC media player" />
+  <Association Identifier=".opus" ProgId="VLC.opus" ApplicationName="VLC media player" />
+  <Association Identifier=".oqy" ProgId="oqyfile" ApplicationName="Bloc-notes" />
+  <Association Identifier=".orf" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".ori" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".otg" ProgId="LibreOffice.DrawTemplate.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".oth" ProgId="LibreOffice.WriterWebTemplate.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".otp" ProgId="LibreOffice.ImpressTemplate.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".ott" ProgId="LibreOffice.WriterTemplate.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".oxt" ProgId="office.Extension.1" ApplicationName="LibreOffice" />
+  <Association Identifier=".pcd" ProgId="LibreOffice.PCD" ApplicationName="LibreOffice Draw" />
+  <Association Identifier=".pdf" ProgId="AcroExch.Document.DC" ApplicationName="Adobe Acrobat Reader" />
+  <Association Identifier=".pdfxml" ProgId="Applications\AcroRd32.exe" ApplicationName="Adobe Acrobat Reader" />
+  <Association Identifier=".pef" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".png" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".pot" ProgId="PowerPoint.Template.8" ApplicationName="PowerPoint" />
+  <Association Identifier=".potm" ProgId="PowerPoint.TemplateMacroEnabled.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".potx" ProgId="PowerPoint.Template.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".pps" ProgId="PowerPoint.SlideShow.8" ApplicationName="PowerPoint" />
+  <Association Identifier=".ppsx" ProgId="PowerPoint.SlideShow.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".ppt" ProgId="PowerPoint.Show.8" ApplicationName="PowerPoint" />
+  <Association Identifier=".pptm" ProgId="PowerPoint.ShowMacroEnabled.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".pptx" ProgId="PowerPoint.Show.12" ApplicationName="PowerPoint" />
+  <Association Identifier=".ps1" ProgId="AppXxf01pj590w7z9mxmyv3nx0a9ewj3e51g" ApplicationName="Bloc-notes" />
+  <Association Identifier=".psd" ProgId="LibreOffice.Psd" ApplicationName="LibreOffice Draw" />
+  <Association Identifier=".psd1" ProgId="AppXc9vj55m1n3559gcjff0scsqeket80zp7" ApplicationName="Bloc-notes" />
+  <Association Identifier=".psm1" ProgId="AppX1b0e9ytcwx0wcmvkdey0h6af04t1ta3z" ApplicationName="Bloc-notes" />
+  <Association Identifier=".pub" ProgId="Publisher.Document.16" ApplicationName="Publisher" />
+  <Association Identifier=".qt" ProgId="AppXje1yfpbq840nvc3prwa53vknqsk55vha" ApplicationName="Microsoft Clipchamp" />
+  <Association Identifier=".R3D" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".ra" ProgId="VLC.ra" ApplicationName="VLC media player" />
+  <Association Identifier=".raf" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".ram" ProgId="VLC.ram" ApplicationName="VLC media player" />
+  <Association Identifier=".rar" ProgId="7-Zip.rar" ApplicationName="7-Zip File Manager" />
+  <Association Identifier=".raw" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".rle" ProgId="AppXcesbfs704v2mjbts9dkr42s9vmrhxbkj" ApplicationName="Paint" />
+  <Association Identifier=".rm" ProgId="VLC.rm" ApplicationName="VLC media player" />
+  <Association Identifier=".rmi" ProgId="VLC.rmi" ApplicationName="VLC media player" />
+  <Association Identifier=".rmv" ProgId="AppXje1yfpbq840nvc3prwa53vknqsk55vha" ApplicationName="Microsoft Clipchamp" />
+  <Association Identifier=".rmvb" ProgId="VLC.rmvb" ApplicationName="VLC media player" />
+  <Association Identifier=".rqy" ProgId="rqyfile" ApplicationName="Bloc-notes" />
+  <Association Identifier=".rtf" ProgId="Word.RTF.8" ApplicationName="Word" />
+  <Association Identifier=".rw2" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".rwl" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".rwz" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".s3m" ProgId="VLC.s3m" ApplicationName="VLC media player" />
+  <Association Identifier=".scp" ProgId="AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw" ApplicationName="Bloc-notes" />
+  <Association Identifier=".shtml" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".slk" ProgId="Excel.SLK" ApplicationName="Excel" />
+  <Association Identifier=".snd" ProgId="VLC.snd" ApplicationName="VLC media player" />
+  <Association Identifier=".sr2" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".srf" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".srw" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".stc" ProgId="soffice.StarCalcTemplate.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".std" ProgId="soffice.StarDrawTemplate.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".sti" ProgId="soffice.StarImpressTemplate.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".stw" ProgId="soffice.StarWriterTemplate.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".svg" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".sxc" ProgId="soffice.StarCalcDocument.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".sxd" ProgId="soffice.StarDrawDocument.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".sxi" ProgId="soffice.StarImpressDocument.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".sxm" ProgId="soffice.StarMathDocument.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".sxw" ProgId="soffice.StarWriterDocument.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".tex" ProgId="MiKTeX.tex.2.9" ApplicationName="TeXworks - a graphical user interface to the typesetting system TeX and its extensions" />
+  <Association Identifier=".thumb" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".tif" ProgId="PhotoViewer.FileAssoc.Tiff" ApplicationName="Visionneuse de photos Windows" />
+  <Association Identifier=".tiff" ProgId="TIFImage.Document" ApplicationName="Visionneuse de photos Windows" />
+  <Association Identifier=".ts" ProgId="VLC.ts" ApplicationName="VLC media player" />
+  <Association Identifier=".tts" ProgId="VLC.tts" ApplicationName="VLC media player" />
+  <Association Identifier=".txt" ProgId="AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw" ApplicationName="Bloc-notes" />
+  <Association Identifier=".uop" ProgId="LibreOffice.Uop" ApplicationName="LibreOffice Impress" />
+  <Association Identifier=".uos" ProgId="LibreOffice.Uos" ApplicationName="LibreOffice Calc" />
+  <Association Identifier=".uot" ProgId="LibreOffice.Uot" ApplicationName="LibreOffice Writer" />
+  <Association Identifier=".url" ProgId="InternetShortcut" ApplicationName="Navigateur Internet" />
+  <Association Identifier=".vlt" ProgId="VLC.vlt" ApplicationName="VLC media player" />
+  <Association Identifier=".vob" ProgId="VLC.vob" ApplicationName="VLC media player" />
+  <Association Identifier=".voc" ProgId="VLC.voc" ApplicationName="VLC media player" />
+  <Association Identifier=".wav" ProgId="VLC.wav" ApplicationName="VLC media player" />
+  <Association Identifier=".wdp" ProgId="AppX43hnxtbyyps62jhe9sqpdzxn1790zetc" ApplicationName="Photos" />
+  <Association Identifier=".webm" ProgId="VLC.webm" ApplicationName="VLC media player" />
+  <Association Identifier=".webp" ProgId="Applications\vlc.exe" ApplicationName="VLC media player" />
+  <Association Identifier=".wk1" ProgId="soffice.StarCalcDocument.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".wks" ProgId="soffice.StarCalcDocument.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".wm" ProgId="WMP11.AssocFile.ASF" ApplicationName="Lecteur multimédia Windows (ancienne génération)" />
+  <Association Identifier=".wma" ProgId="VLC.wma" ApplicationName="VLC media player" />
+  <Association Identifier=".wmf" ProgId="AppXcesbfs704v2mjbts9dkr42s9vmrhxbkj" ApplicationName="Paint" />
+  <Association Identifier=".wmv" ProgId="VLC.wmv" ApplicationName="VLC media player" />
+  <Association Identifier=".wpd" ProgId="soffice.StarWriterDocument.6" ApplicationName="LibreOffice" />
+  <Association Identifier=".WPL" ProgId="VLC.wpl" ApplicationName="VLC media player" />
+  <Association Identifier=".wsz" ProgId="VLC.wsz" ApplicationName="VLC media player" />
+  <Association Identifier=".WTV" ProgId="VLC.wtv" ApplicationName="VLC media player" />
+  <Association Identifier=".wtx" ProgId="AppX4ztfk9wxr86nxmzzq47px0nh0e58b8fw" ApplicationName="Bloc-notes" />
+  <Association Identifier=".wvx" ProgId="VLC.wvx" ApplicationName="VLC media player" />
+  <Association Identifier=".x3f" ProgId="AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h" ApplicationName="Photos" />
+  <Association Identifier=".xht" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".xhtml" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier=".xls" ProgId="Excel.Sheet.8" ApplicationName="Excel" />
+  <Association Identifier=".xlsb" ProgId="Excel.SheetBinaryMacroEnabled.12" ApplicationName="Excel" />
+  <Association Identifier=".xlsm" ProgId="Excel.SheetMacroEnabled.12" ApplicationName="Excel" />
+  <Association Identifier=".xlsx" ProgId="Excel.Sheet.12" ApplicationName="Excel" />
+  <Association Identifier=".xlt" ProgId="Excel.Template.8" ApplicationName="Excel" />
+  <Association Identifier=".xltm" ProgId="Excel.TemplateMacroEnabled" ApplicationName="Excel" />
+  <Association Identifier=".xltx" ProgId="Excel.Template" ApplicationName="Excel" />
+  <Association Identifier=".xlw" ProgId="Excel.Workspace" ApplicationName="Excel" />
+  <Association Identifier=".xm" ProgId="VLC.xm" ApplicationName="VLC media player" />
+  <Association Identifier=".xml" ProgId="FirefoxURL-308046B0AF4A39CB" ApplicationName="Firefox" />
+  <Association Identifier=".yuv" ProgId="AppXje1yfpbq840nvc3prwa53vknqsk55vha" ApplicationName="Microsoft Clipchamp" />
+  <Association Identifier=".zip" ProgId="CompressedFolder" ApplicationName="Explorateur Windows" />
+  <Association Identifier=".zpl" ProgId="VLC.zpl" ApplicationName="VLC media player" />
+  <Association Identifier="ftp" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="http" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="https" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="microsoft-edge" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="microsoft-edge-holographic" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="microsoft.windows.photos.crop" ProgId="AppXg5znxfz1f45aw5f3sz0e41f2pwstgx5q" ApplicationName="Photos" />
+  <Association Identifier="microsoft.windows.photos.picker" ProgId="AppX7m6gnccfzpt1c1t2weraxv0a2sw4yzrn" ApplicationName="Photos" />
+  <Association Identifier="ms-clipchamp" ProgId="AppXz7mta8wty0t2m118za01e7gxdzdv6zm2" ApplicationName="Microsoft Clipchamp" />
+  <Association Identifier="ms-excel" ProgId="Excel.UriLink.16" ApplicationName="Excel" />
+  <Association Identifier="ms-photos" ProgId="AppXn0drnw129455gh9wwzqwd80zj8nwmp2t" ApplicationName="Photos" />
+  <Association Identifier="ms-powerpoint" ProgId="PowerPoint.UriLink.16" ApplicationName="PowerPoint" />
+  <Association Identifier="ms-wcrv" ProgId="AppXdmc2hnhd4vyje8zdrctd4j6e4wg4bawg" ApplicationName="Photos" />
+  <Association Identifier="ms-word" ProgId="Word.UriLink.16" ApplicationName="Word" />
+  <Association Identifier="ms-xbl-3d8b930f" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+  <Association Identifier="read" ProgId="MSEdgeHTM" ApplicationName="Microsoft Edge" />
+</DefaultAssociations>

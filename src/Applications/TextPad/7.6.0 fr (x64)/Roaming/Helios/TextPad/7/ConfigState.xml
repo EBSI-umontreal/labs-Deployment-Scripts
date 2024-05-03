@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<header>
+	<value name="application" type="string">TextPad</value>
+	<value name="version" type="string">1</value>
+	<value name="vendor" type="string">Helios Software Solutions</value>
+</header>
+<TextPad>
+	<Options>
+		<value name="TipsStartUp" type="uint">1</value>
+		<value name="OnceOnly" type="uint">f</value>
+	</Options>
+</TextPad>
