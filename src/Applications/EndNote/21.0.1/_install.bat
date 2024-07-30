@@ -7,7 +7,7 @@ SET defaultUserFolder=%SystemDrive%\Users\Default
 
 REM ************** INSTALL/UNINSTALL **************
 REM ## INSTALL/UNINSTALL PROGRAM ##
-START /WAIT msiexec.exe /qn /norestart /i "%~dp0EN21Inst.msi" INSTALLALLCONTENTFILES=yes ADDLOCAL=ALL REMOVE=EndNoteClick
+START /WAIT msiexec.exe /qn /norestart /i "%~dp0EN21Inst.msi" INSTALLALLCONTENTFILES=yes ADDLOCAL=ALL REMOVE=EndNoteClick USERCANAPPLYUPDATES=F
 
 
 REM ## ADJUSTMENTS ##
