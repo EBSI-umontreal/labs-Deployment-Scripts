@@ -7,7 +7,7 @@ SET defaultUserFolder=%SystemDrive%\Users\Default
 
 REM ************** INSTALL/UNINSTALL **************
 REM ## INSTALL/UNINSTALL PROGRAM ##
-START /WAIT msiexec.exe /qn /norestart /i "%~dp0camtasia.msi" TRANSFORMS="camtasia.mst"
+START /WAIT msiexec.exe /qn /norestart /i "%~dp0camtasia.msi" TRANSFORMS="%~dp0camtasia.mst"
 
 
 REM ## ADJUSTMENTS ##

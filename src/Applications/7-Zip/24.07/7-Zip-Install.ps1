@@ -74,9 +74,11 @@ Invoke-Command -ScriptBlock {
         }
     #>
 
-    if (Test-Path -Path 'HKLM:\SOFTWARE\Classes\CompressedFolder') {
+    <# Mettre cette section en commentaire pour éviter de supprimer le support des .zip par l'Explorateur de fichiers
+	if (Test-Path -Path 'HKLM:\SOFTWARE\Classes\CompressedFolder') {
         Rename-Item -Path 'HKLM:\SOFTWARE\Classes\CompressedFolder' -NewName 'CompressedFolder.BackUp' | Out-Null
     }
+	#>
 
 
     <#
